@@ -2,3 +2,4 @@
 	- [[EVM]]
 		- [[How to run the Trustless EVM Bridge Relayer]]
 	- [[Kusama]]
+		- [[How to set up a SORA mainnet -> SORA parachain bridge]]
