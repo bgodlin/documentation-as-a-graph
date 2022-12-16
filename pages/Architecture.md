@@ -1,3 +1,3 @@
-- [[Interoperability]]
+-
 	- [[EMV]]
 	- [[Kusama]]
