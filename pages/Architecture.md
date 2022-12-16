@@ -3,4 +3,4 @@
 		- [[Trustless EVM bridge]]
 		- [[HASHI bridge]]
 	- [[Kusama]]
-		-
+		- [[SORA parachain relayer]]
