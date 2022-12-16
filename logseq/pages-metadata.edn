@@ -3,7 +3,7 @@
   :block/updated-at 1671036370764}
  {:block/name "architecture",
   :block/created-at 1671183800719,
-  :block/updated-at 1671183811802}
+  :block/updated-at 1671185232517}
  {:block/name "area",
   :block/created-at 1671036113236,
   :block/updated-at 1671036113236}
@@ -31,6 +31,9 @@
  {:block/name "doing",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
+ {:block/name "domain",
+  :block/created-at 1671185158961,
+  :block/updated-at 1671185158961}
  {:block/name "done",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
@@ -45,10 +48,10 @@
   :block/updated-at 1671036370764}
  {:block/name "guides",
   :block/created-at 1671183771146,
-  :block/updated-at 1671183831079}
+  :block/updated-at 1671185193259}
  {:block/name "how to run the trustless evm bridge relayer",
   :block/created-at 1671035949190,
-  :block/updated-at 1671183716021}
+  :block/updated-at 1671185158961}
  {:block/name "in-progress",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
