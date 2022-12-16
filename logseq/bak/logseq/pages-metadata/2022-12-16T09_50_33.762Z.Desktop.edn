@@ -2,11 +2,14 @@
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "architecture",
-  :block/created-at 1671183800719,
-  :block/updated-at 1671183811802}
+  :block/created-at 1671035866321,
+  :block/updated-at 1671035866321}
  {:block/name "area",
   :block/created-at 1671036113236,
   :block/updated-at 1671036113236}
+ {:block/name "aspect",
+  :block/created-at 1671036201016,
+  :block/updated-at 1671036201016}
  {:block/name "b",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
@@ -25,18 +28,15 @@
  {:block/name "contents",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
- {:block/name "dec 16th, 2022",
-  :block/created-at 1671183683083,
-  :block/updated-at 1671183683083}
+ {:block/name "dec 14th, 2022",
+  :block/created-at 1671035850629,
+  :block/updated-at 1671035850629}
  {:block/name "doing",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "done",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
- {:block/name "emv",
-  :block/created-at 1671183806552,
-  :block/updated-at 1671183806552}
  {:block/name "evm",
   :block/created-at 1671035891767,
   :block/updated-at 1671036303066}
@@ -44,17 +44,17 @@
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "guides",
-  :block/created-at 1671183771146,
-  :block/updated-at 1671183831079}
+  :block/created-at 1671035911905,
+  :block/updated-at 1671035911905}
  {:block/name "how to run the trustless evm bridge relayer",
   :block/created-at 1671035949190,
-  :block/updated-at 1671183716021}
+  :block/updated-at 1671036233866}
  {:block/name "in-progress",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "interoperability",
-  :block/created-at 1671183782070,
-  :block/updated-at 1671183782070}
+  :block/created-at 1671036113236,
+  :block/updated-at 1671036113236}
  {:block/name "kusama",
   :block/created-at 1671035895440,
   :block/updated-at 1671036296439}
@@ -66,16 +66,16 @@
   :block/updated-at 1671036370764}
  {:block/name "setup a bridge",
   :block/created-at 1671035936498,
-  :block/updated-at 1671183707650}
+  :block/updated-at 1671036253374}
  {:block/name "sora kusama parachain crowdloan",
   :block/created-at 1671035903315,
-  :block/updated-at 1671183704610}
+  :block/updated-at 1671036201016}
  {:block/name "todo",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "transfer",
   :block/created-at 1671035940471,
-  :block/updated-at 1671183712009}
+  :block/updated-at 1671036216909}
  {:block/name "type",
   :block/created-at 1671035959086,
   :block/updated-at 1671035959086}
