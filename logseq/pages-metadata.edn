@@ -3,7 +3,7 @@
   :block/updated-at 1671036370764}
  {:block/name "architecture",
   :block/created-at 1671183800719,
-  :block/updated-at 1671185232517}
+  :block/updated-at 1671185623273}
  {:block/name "area",
   :block/created-at 1671036113236,
   :block/updated-at 1671036113236}
@@ -17,9 +17,6 @@
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "cancelled",
-  :block/created-at 1671036370764,
-  :block/updated-at 1671036370764}
- {:block/name "card",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
  {:block/name "contents",
@@ -37,9 +34,6 @@
  {:block/name "done",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
- {:block/name "emv",
-  :block/created-at 1671183806552,
-  :block/updated-at 1671183806552}
  {:block/name "evm",
   :block/created-at 1671035891767,
   :block/updated-at 1671036303066}
@@ -48,7 +42,10 @@
   :block/updated-at 1671036370764}
  {:block/name "guides",
   :block/created-at 1671183771146,
-  :block/updated-at 1671185193259}
+  :block/updated-at 1671185545419}
+ {:block/name "hashi bridge",
+  :block/created-at 1671185623273,
+  :block/updated-at 1671185623273}
  {:block/name "how to run the trustless evm bridge relayer",
   :block/created-at 1671035949190,
   :block/updated-at 1671185158961}
@@ -79,6 +76,9 @@
  {:block/name "transfer",
   :block/created-at 1671035940471,
   :block/updated-at 1671183712009}
+ {:block/name "trustless evm bridge",
+  :block/created-at 1671185611333,
+  :block/updated-at 1671185611333}
  {:block/name "type",
   :block/created-at 1671035959086,
   :block/updated-at 1671035959086}
