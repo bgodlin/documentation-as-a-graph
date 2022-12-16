@@ -16,6 +16,9 @@
  {:block/name "cancelled",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
+ {:block/name "card",
+  :block/created-at 1671189033797,
+  :block/updated-at 1671189033797}
  {:block/name "contents",
   :block/created-at 1671186033565,
   :block/updated-at 1671186033565}
@@ -31,6 +34,9 @@
  {:block/name "evm",
   :block/created-at 1671035891767,
   :block/updated-at 1671036303066}
+ {:block/name "favorites",
+  :block/created-at 1671189033797,
+  :block/updated-at 1671189033797}
  {:block/name "guides",
   :block/created-at 1671183771146,
   :block/updated-at 1671185980637}
