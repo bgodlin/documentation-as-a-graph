@@ -1,4 +1,3 @@
-- [[Interoperability]]
-	- [[EVM]]
-	- [[Kusama]]
-		- [[How to run the Trustless EVM Bridge Relayer]]
+- [[EVM]]
+- [[Kusama]]
+	- [[How to run the Trustless EVM Bridge Relayer]]
