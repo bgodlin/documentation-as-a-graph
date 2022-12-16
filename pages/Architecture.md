@@ -1,3 +1,5 @@
 - [[Interoperability]]
 	- [[EVM]]
+		- [[Trustless EVM bridge]]
+		- [[HASHI bridge]]
 	- [[Kusama]]
