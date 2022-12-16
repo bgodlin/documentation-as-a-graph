@@ -33,7 +33,7 @@
   :block/updated-at 1671036370764}
  {:block/name "evm",
   :block/created-at 1671035891767,
-  :block/updated-at 1671036303066}
+  :block/updated-at 1671191361300}
  {:block/name "favorites",
   :block/created-at 1671189033797,
   :block/updated-at 1671189033797}
@@ -57,7 +57,7 @@
   :block/updated-at 1671183782070}
  {:block/name "kusama",
   :block/created-at 1671035895440,
-  :block/updated-at 1671036296439}
+  :block/updated-at 1671191369909}
  {:block/name "later",
   :block/created-at 1671036370764,
   :block/updated-at 1671036370764}
